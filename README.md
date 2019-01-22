@@ -1,2 +1,2 @@
 # thepunkydev
-ThePunkyDev Blog
+thepunkydev blog
